@@ -6,5 +6,5 @@ This research shows the path for developing an activity reminder which can be us
 
 ### [2]. Download the Application:
 
-
+Click this [link](https://drive.google.com/file/d/1_ASdYsT3hOm42FOdWvsl1HlRK-_3qn9s/view?usp=sharing) to download the application.
 ### [3]. User Manual:
